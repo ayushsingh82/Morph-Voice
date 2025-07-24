@@ -1,4 +1,4 @@
-# **BNB-Voice**  
+# **Morph-Voice**  
 Revolutionizing invoicing with a blockchain-powered platform that simplifies payment requests, enhances cash flow visibility, and builds trust between businesses and clients on BNB Chain
 
 ---

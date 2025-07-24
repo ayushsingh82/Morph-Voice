@@ -88,7 +88,7 @@ const Footer = () => {
                 </svg>
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
-                BNB-Voice
+                Morph-Voice
               </span>
             </motion.div>
             <motion.p 
@@ -188,7 +188,7 @@ const Footer = () => {
         >
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-600 text-sm">
-              © 2024 BNB-Voice. All rights reserved.
+              © 2024 Morph-Voice. All rights reserved.
             </p>
             <div className="flex flex-wrap justify-center gap-6">
               {['Privacy Policy', 'Terms of Service', 'Cookie Policy', 'Contact'].map((item) => (

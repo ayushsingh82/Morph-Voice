@@ -23,7 +23,7 @@ const Home = () => {
       className: "text-2xl md:text-4xl text-emerald-700 dark:text-emerald-500"
     },
     {
-      text: "BNB-Voice.",
+      text: "Morph-Voice.",
       className: "text-2xl md:text-4xl text-teal-700 dark:text-teal-500 font-bold"
     }
   ];

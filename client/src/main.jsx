@@ -10,7 +10,7 @@ import '@rainbow-me/rainbowkit/styles.css';
 
 // Configure for BSC Testnet
 const config = getDefaultConfig({
-  appName: 'BNB-Voice',
+  appName: 'Morph-Voice',
   projectId: 'e7fa7d19fd057ecd9403a0e89bd62b8b', // Your project ID
   chains: [bscTestnet],
   ssr: false

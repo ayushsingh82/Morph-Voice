@@ -47,7 +47,7 @@ const SidebarPage = () => {
             className="text-center mb-12"
           >
             <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
-              Welcome to BNB-Voice
+              Welcome to Morph-Voice
             </h1>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               Create and manage your invoices with ease. Get started by connecting your wallet or exploring our features.
