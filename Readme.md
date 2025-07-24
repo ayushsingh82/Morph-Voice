@@ -40,7 +40,7 @@ To provide an efficient, secure, and transparent invoicing platform that empower
 - 📋 **Detailed Logging**: Tracks all email sending activities
 
 ### **Secure and Scalable**  
-- Built on the Binance , ensuring secure and immutable transactions.  
+- Built on the Morp , ensuring secure and immutable transactions.  
 - Scalable for businesses of any size.  
 
 - Contract deployment link - https://testnet.bscscan.com/tx/0x9644752e49c1492438db50686b8929368d61a33b57c5b0460d4f8bfad2df47fa
