@@ -1,5 +1,5 @@
 # **Morph-Voice**  
-Revolutionizing invoicing with a blockchain-powered platform that simplifies payment requests, enhances cash flow visibility, and builds trust between businesses and clients on BNB Chain
+Revolutionizing invoicing with a blockchain-powered platform that simplifies payment requests, enhances cash flow visibility, and builds trust between businesses and clients on Morph Chain
 
 ---
 
@@ -12,7 +12,7 @@ To provide an efficient, secure, and transparent invoicing platform that empower
 
 ### **Invoicing and Payments**  
 - Create and manage invoices with ease.  
-- Blockchain-powered transparency via **BNB Chain**.  
+- Blockchain-powered transparency via **Morph Chain**.  
 - Download invoices in standard formats like PDF.  
 - Send invoices directly to clients via email.  
 
@@ -43,7 +43,7 @@ To provide an efficient, secure, and transparent invoicing platform that empower
 - Built on the Morp , ensuring secure and immutable transactions.  
 - Scalable for businesses of any size.  
 
-- Contract deployment link - https://testnet.bscscan.com/tx/0x9644752e49c1492438db50686b8929368d61a33b57c5b0460d4f8bfad2df47fa
+- Contract deployment link - https://explorer-holesky.morphl2.io/address/0xbF452C9D17763BEc4692bbC54F29a5Bc03Af6C3A
 
 ---
 

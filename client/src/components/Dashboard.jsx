@@ -15,7 +15,7 @@ const Dashboard = () => {
       try {
         setLoading(true);
         const contractData = await publicClient.readContract({
-          address: "0x52d336d5fB92A28a95fE22A089eb4c99209263D6",
+          address: "0xbF452C9D17763BEc4692bbC54F29a5Bc03Af6C3A",
           abi: wagmiAbi,
           functionName: "getAllInvoices",
           args: [],
