@@ -202,7 +202,7 @@ class InvoiceReminder:
             
             <div class="footer">
                 <p>This is an automated reminder. Please do not reply to this email.</p>
-                <p>© 2024 BNB Invoice. All rights reserved.</p>
+                <p>© 2024 Morph Invoice. All rights reserved.</p>
             </div>
         </body>
         </html>

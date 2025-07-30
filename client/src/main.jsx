@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
 import { WagmiProvider } from 'wagmi';
-import { bscTestnet } from 'wagmi/chains';
+import { morphHolesky } from 'wagmi/chains';
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { getDefaultConfig, RainbowKitProvider } from '@rainbow-me/rainbowkit';
 import '@rainbow-me/rainbowkit/styles.css';
@@ -12,7 +12,7 @@ import '@rainbow-me/rainbowkit/styles.css';
 const config = getDefaultConfig({
   appName: 'Morph-Voice',
   projectId: 'e7fa7d19fd057ecd9403a0e89bd62b8b', // Your project ID
-  chains: [bscTestnet],
+  chains: [morphHolesky],
   ssr: false
 });
 

@@ -97,16 +97,9 @@ const CreateInvoice = () => {
 
   const chains = [
     {
-      id: 'bnb',
-      name: 'BNB Chain',
-      icon: (
-        <svg className="w-5 h-5" viewBox="0 0 32 32" fill="none">
-          <path d="M16 32C24.8366 32 32 24.8366 32 16C32 7.16344 24.8366 0 16 0C7.16344 0 0 7.16344 0 16C0 24.8366 7.16344 32 16 32Z" fill="#F3BA2F"/>
-          <path d="M12.116 14.404L16 10.52L19.886 14.406L22.146 12.146L16 6L9.856 12.144L12.116 14.404Z" fill="white"/>
-          <path d="M16 21.48L12.116 17.596L9.856 19.856L16 26L22.146 19.854L19.886 17.594L16 21.48Z" fill="white"/>
-          <path d="M16 18.194L18.194 16L16 13.806L13.806 16L16 18.194Z" fill="white"/>
-        </svg>
-      )
+      id: 'morph-holesky',
+      name: 'Morph Holesky',
+     
     }
   ];
 

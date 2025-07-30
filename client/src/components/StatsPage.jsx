@@ -115,7 +115,7 @@ const StatsPage = () => {
                 </svg>
               </div>
             </div>
-            <p className="text-4xl font-bold text-emerald-600 mb-2">$27,300</p>
+            <p className="text-4xl font-bold text-emerald-600 mb-2">$2730</p>
             <div className="flex items-center text-sm text-emerald-600">
               <svg className="w-4 h-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
@@ -139,7 +139,7 @@ const StatsPage = () => {
                 </svg>
               </div>
             </div>
-            <p className="text-4xl font-bold text-red-600 mb-2">$24,000</p>
+            <p className="text-4xl font-bold text-red-600 mb-2">$2400</p>
             <div className="flex items-center text-sm text-red-600">
               <svg className="w-4 h-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 17h8m0 0V9m0 8l-8-8-4 4-6-6" />

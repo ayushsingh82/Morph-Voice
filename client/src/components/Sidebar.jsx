@@ -120,7 +120,7 @@ const Sidebar = () => {
       <div className="p-4 border-t border-gray-100 mb-12">
         <div className="mb-3 text-sm text-gray-600 flex items-center gap-2">
           <span className={`inline-block w-2 h-2 rounded-full ${isConnected ? 'bg-emerald-500' : 'bg-gray-400'}`}></span>
-          <span>{isConnected ? 'Connected to BNB Testnet' : 'Not Connected'}</span>
+          <span>{isConnected ? 'Connected to Morph Holesky' : 'Not Connected'}</span>
         </div>
         
         {!isConnected ? (

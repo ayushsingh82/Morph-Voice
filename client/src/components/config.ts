@@ -1,14 +1,14 @@
 import { createPublicClient, createWalletClient, custom, http} from 'viem'
 import { privateKeyToAccount } from 'viem/accounts'
-import { opBNBTestnet , bscTestnet } from 'viem/chains'
+import { morphHolesky } from 'viem/chains'
  
 export const publicClient = createPublicClient({
-  chain: bscTestnet,
+  chain: morphHolesky,
   transport: http()
 })
  
 export const walletClient = createWalletClient({
-  chain: bscTestnet,
+  chain: morphHolesky,
   transport: custom(window.ethereum)
 })
  
