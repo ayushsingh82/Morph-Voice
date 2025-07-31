@@ -8,7 +8,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { getDefaultConfig, RainbowKitProvider } from '@rainbow-me/rainbowkit';
 import '@rainbow-me/rainbowkit/styles.css';
 
-// Configure for BSC Testnet
+// Configure for Morph Holesky Testnet
 const config = getDefaultConfig({
   appName: 'Morph-Voice',
   projectId: 'e7fa7d19fd057ecd9403a0e89bd62b8b', // Your project ID
